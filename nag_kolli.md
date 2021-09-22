@@ -26,6 +26,6 @@ Here is my Instagram account link [Insta](https://www.instagram.com/nag.kolli/)
 
 Here is my YouTube link [Youtung](https://www.youtube.com/channel/UCBTVTLwBWmwVzReAzzHFcFw)
 
-![Here is my favourite picture ever](https://www.instagram.com/p/CMjfUHjgSlw/)
+![Here is my favourite picture ever](https://github.com/nagkolli/image/blob/main/BEST%20OF%20THE%20BEST/boattop1.jpg)
 
-![Here is an image from my Lenovo Legion Laptop](D:\Projects\Photography\BEST OF THE BEST\Singanapur2000 pixels.jpg)
+
