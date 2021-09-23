@@ -1,3 +1,0 @@
-testing git
-Successfully created 1.txt
-Adding anotheer line
